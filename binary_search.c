@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-
-
+// This code implemnt the finding algoorithm binary search.
 int main(){
     void sort(int arr[] , int size);
     int b_search(int x, int arr[], int size);
