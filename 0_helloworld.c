@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// first c program after a long time
 int main(){
 
     puts("Hello from\t'puts'");// It's a standard C libarary function that writes a string argument to the stdout stream and append a newline char
